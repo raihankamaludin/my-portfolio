@@ -32,7 +32,7 @@ const projectData = [
       "Website portofolio pribadi menggunakan Vue.js dan Tailwind CSS, dirancang modern dan responsif.",
     status: "Completed",
     techStack: ["Vue.js", "Tailwind CSS", "JavaScript"],
-    code: "#",
+    code: "https://github.com/raihankamaludin/my-portfolio",
 
   },
   {
