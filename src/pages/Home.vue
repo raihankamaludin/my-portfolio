@@ -20,7 +20,7 @@
       class="w-auto md:w-3/4 flex justify-center mt-6 md:mt-0"
     >
       <img
-        src="../assets/image/foto-raihan (4).png"
+        src="../assets/image/foto-raihan.png"
         alt="Profil"
         class="w-3/4 sm:w-2/3 md:w-4/5 max-w-full object-cover rounded-lg"
       />
