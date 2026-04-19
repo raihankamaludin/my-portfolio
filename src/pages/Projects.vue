@@ -33,7 +33,7 @@ const projectData = [
     status: "Completed",
     techStack: ["Vue.js", "Tailwind CSS", "JavaScript"],
     code: "https://github.com/raihankamaludin/my-portfolio",
-
+    demo: "https://raihandev.netlify.app/",
   },
   {
     title: "E-Commerce UI",
@@ -43,11 +43,21 @@ const projectData = [
     status: "Completed",
     techStack: ["Vue.js", "Tailwind CSS", "JavaScript"],
     code: "https://github.com/raihankamaludin/ecommerce-catalog.git",
+  },
 
+  {
+    title: "Website UMKM – Profil & Katalog Produk",
+    type: "Web Application",
+    description:
+      "Website untuk menampilkan profil UMKM dan katalog produk, dilengkapi tombol pembelian yang mengarahkan pengguna ke E-Commerce.",
+    status: "Completed",
+    techStack: ["Next.js", "JavaScript"],
+    code: "https://github.com/raihankamaludin/ecommerce-catalog.git",
+    demo: "https://kreasik-site.vercel.app/",
   },
 ];
 
 onMounted(() => {
-  if (window.AOS) window.AOS.refresh()
-})
+  if (window.AOS) window.AOS.refresh();
+});
 </script>

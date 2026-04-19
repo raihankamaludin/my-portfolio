@@ -63,13 +63,15 @@ import SectionTitle from "../components/SectionTitle.vue";
 const selected = ref("programming");
 
 const programming = [
-  { name: "JavaScript", type: "Language", level: 75 },
+  { name: "JavaScript", type: "Language", level: 80 },
   { name: "Python", type: "Language", level: 60 },
   { name: "C++", type: "Language", level: 60 },
   { name: "HTML", type: "Markup Language", level: 85 },
   { name: "CSS", type: "StyleSheet", level: 85 },
   { name: "Vue.js", type: "Framework", level: 75 },
   { name: "Tailwind CSS", type: "Framework", level: 80 },
+   { name: "React.js", type: "Library", level: 70 },
+    { name: "Next.js", type: "Framework", level: 70 },
 ];
 
 const tools = [

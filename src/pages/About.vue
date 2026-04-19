@@ -126,7 +126,7 @@
 
           <div class="flex gap-4 flex-wrap">
             <a
-              href="/file-cv/cv_raihan_kamaludin.pdf"
+              href="/file-cv/RaihanKamaludin_CV.pdf"
               download
               class="flex items-center gap-2 px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-800 transition"
             >
